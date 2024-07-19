@@ -1,6 +1,6 @@
 {
   "name": "@ncanis/express-status-monitor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Express-Status-Monitor library updated.",
   "main": "index.js",
   "keywords": [
