@@ -58,7 +58,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RafalWilinski/express-status-monitor.git"
+    "url": "https://github.com/ncanis/express-status-monitor.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -83,9 +83,5 @@
     "eslint": "8.10.0",
     "mocha": "^10.6.0",
     "sinon": "13.0.1"
-  },
-  "funding": {
-    "type": "individual",
-    "url": "http://dynobase.com/buy"
   }
 }
